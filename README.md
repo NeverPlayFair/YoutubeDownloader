@@ -67,6 +67,10 @@ python manage.py runserver
 ````
 
 ## File Three:
+
+![Linux](https://github.com/NeverPlayFair/YoutubeDownloader/assets/65012705/7fc060e6-df54-4608-a75a-f9855f47c62f)
+
+
 ![three](https://github.com/NeverPlayFair/YoutubeDownloader/assets/65012705/9316c504-3039-4adc-a36f-5d5961e3b699)
 
 ## Demo of app:
