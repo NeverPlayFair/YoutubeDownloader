@@ -4,9 +4,8 @@ Youtube Downloader
 This project is a web-based YouTube Video Downloader built using Django, a high-level Python web framework. 
 The application allows users to download YouTube videos by simply providing the URL of the video by friendly user inteface easy as possible.
 ----------------------------------------------------
-Technologies Used
-Django: A high-level Python web framework that encourages rapid development and clean, pragmatic design.
-pytube: A lightweight, Pythonic library for downloading YouTube videos.
+Technologies Used Django: A high-level Python web framework that encourages rapid development and clean, pragmatic design. 
+pytube: A lightweight, Pythonic library for downloading YouTube videos. 
 HTML/CSS: For building the front-end user interface minimalist but transparent :)
 ----------------------------------------------------
 Nice to have:
