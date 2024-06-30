@@ -59,7 +59,7 @@ python manage.py startapp downloader
 python manage.py migrate
 ````
 
- 3. Run server:
+ 2. Run server:
  Important! Make sure u are in the path where is manage.py file!
 
 ````bash
