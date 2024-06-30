@@ -1,0 +1,24 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Video Downloader</title>
+    <link rel="stylesheet" href="{% static 'downloader/style.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>YouTube Video Downloader</h1>
+        <form method="post">
+            {% csrf_token %}
+            <label for="url">Put your URL down:</label>
+            <input type="text" id="url" name="url" required>
+            <button type="submit">Download</button>
+        </form>
+        {% if message %}
+            <p class="message">{{ message }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
