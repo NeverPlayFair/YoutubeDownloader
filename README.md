@@ -1,4 +1,5 @@
 # YouTube Video Downloader
+## Deprecated!!! Actually works - https://github.com/NeverPlayFair/YoutubeDownloader---yt-dlp This version is fixed version of this problem. I performed the migration from old lib pytube to yt-dlp(actually works 12.05.2025)
 
 This project is a web-based YouTube Video Downloader built using Django, a high-level Python web framework.  
 The application allows users to download YouTube videos by simply providing the URL of the video through a friendly user interface.
